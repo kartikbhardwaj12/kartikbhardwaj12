@@ -1,6 +1,6 @@
-- 👋 Hi, I’m karti kbhardwaj
+- 👋 Hi, I’m kartik bhardwaj
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning html,css,c
+- 🌱 I’m currently learning html,css,c,javascript,c++
 - 📫 mail on bhardwajkartik20006@gmail.com
 
 <!---
